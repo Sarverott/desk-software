@@ -1,0 +1,3 @@
+[submodule "craftset"]
+	path = .craft
+	url = https://gist.github.com/a9933eea3dd0e4fc54e8ff275bd79dcf.git
