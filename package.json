@@ -1,0 +1,26 @@
+{
+  "name": "desk-software",
+  "version": "1.0.0",
+  "description": "my desk software for lights remote controll and other gadgets",
+  "main": "./src/deskapp-js/main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sh ./.craft/.craftset.selfrun.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarverott/desk-software.git"
+  },
+  "keywords": [
+    "desk"
+  ],
+  "author": "Sett Sarverott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarverott/desk-software/issues"
+  },
+  "homepage": "https://github.com/Sarverott/desk-software#readme"
+}
